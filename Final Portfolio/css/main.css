@@ -1,0 +1,42 @@
+body{
+	font-family: 'Slabo 27px', serif;
+
+}
+
+.text-light{
+	color: #7d97ad;
+}
+
+.text-super{
+	font-size: 60px;
+}
+
+.img-margin{
+	margin: 0 auto;
+}
+
+.link{
+	color: black;
+}
+
+.caption{
+	font-size: 20px;
+}
+
+
+.container{
+	width: 80%;
+	margin:0 auto;
+}
+.logo{
+	height: 15vh;
+	margin-top: 20px;
+}
+
+.main-image{
+	width: 100%;
+	height: auto; 
+}
+.First-Work,.Second-Work,.Third-Work{
+	height: auto;
+}
